@@ -22,3 +22,13 @@
 
 #4
 
+# num_str = input("Enter a number: ")
+# num_int = int(num_str)
+# num_float = float(num_str)
+# num_string_again = str(num_int)
+# print("Integer value:", num_int, type(num_int))
+# print("Float value:", num_float, type(num_float))
+# print("String value:", num_string_again, type(num_string_again))
+
+#5
+
