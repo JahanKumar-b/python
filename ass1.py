@@ -46,3 +46,27 @@
 
 #7
 
+# a=str(input("temperature in  Celsius:"))
+# b=float(a)
+# c=(b*(9/5))+32
+# print(c)
+
+#8
+
+# a=int(input("enter the radius:"))
+# area=(3.14*(a**a))
+# print(area)
+
+#9
+
+# p=float(input("principal:"))
+# r=float(input("rate:"))
+# t=float(input("time:"))
+# si=((p*r*t)/100)
+# print(si)
+
+#10
+
+# a=float(input("decimal no:"))
+# print(int(a))
+# print(a-int(a))
