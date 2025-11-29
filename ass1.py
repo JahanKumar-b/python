@@ -32,3 +32,17 @@
 
 #5
 
+# x = 10 + 3 * 2 ** 2
+# print(x)
+
+#6
+
+# a = input("Enter first number: ")
+# b = input("Enter second number: ")
+# a, b = b, a
+# print("After swapping:")
+# print("a =", a)
+# print("b =", b)
+
+#7
+
